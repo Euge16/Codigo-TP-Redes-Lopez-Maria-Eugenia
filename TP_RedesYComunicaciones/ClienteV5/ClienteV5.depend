@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1696214430 source:c:\users\lop_m\onedrive\escritorio\redes y comunicaciones\ejemplos en c++\clientev5\main.cpp
+	<iostream>
+	<string>
+	<algorithm>
+	<WinSock2.h>
+
+1697934387 source:c:\users\lop_m\onedrive\escritorio\universidad\redes y comunicaciones\ejemplos en c++\clientev5\main.cpp
+	<iostream>
+	<string>
+	<algorithm>
+	<WinSock2.h>
+	<fstream>
+	<sstream>
+
